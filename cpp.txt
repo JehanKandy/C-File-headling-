@@ -1,0 +1,5 @@
+1. Download install Codeblock 
+2. Open Codeblock
+3. Ctrl + O and select this main.c file
+4. click Ok button
+5. Build and run
